@@ -40,7 +40,7 @@ const sebas = {
 
 ### :fire: My Stats :
 
-
+<aref="https://github.com/reptar007"><img src="https://github-readme-stats.vercel.app/api?username=reptar007&show_icons=true&include_all_commits=true&theme=dark&background=000000&count_private=true" alt="Sebastina's github stats" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reptar007&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reptar007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
