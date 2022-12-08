@@ -11,8 +11,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Reptar007&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/9JrkeUHvAdN8nXKTDd/giphy.gif" width="50px"/>
+  hey there, my name is Sebastian
+  <img src="https://media.giphy.com/media/0Io4dffL1cFvgKjF3r/giphy.gif" width="50px"/>
 </h1>
 </div>
 
@@ -20,7 +20,32 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
 </div>
 
-### <img src="https://media.giphy.com/media/8Og5WlPjQMk1eXlLxi/giphy.gif" width="50"> A little more about me...  
+---
+
+### <img src="https://media.giphy.com/media/WFEpbNDqjs312EZ06H/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const sebas = {
+  pronouns: "He" | "Him",
+  class: 'Job Hunter',
+  code: [Javascript, HTML, CSS, Python, SQL],
+  tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
+  challenge: "Egarly loading Google API and AWS into the ole brain box",
+  hobbies: [web development, hiking, video games, outdoors],
+  background: {Full-time Dad: 1yr, Army Veteran: 6 yrs, Coding: 1yr] 
+}
+```
+
+---
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reptar007&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reptar007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Reptar007/Reptar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
