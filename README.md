@@ -30,7 +30,7 @@ const sebas = {
   class: 'Job Hunter',
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
-  challenge: "Egarly loading Google API and AWS into the ole brain box",
+  challenge: "Eagarly loading Google API and AWS into the ole brain box",
   hobbies: [web development, hiking, video games, outdoors],
   background: {Full-time Dad: 1yr, Army Veteran: 6 yrs, Coding: 1yr] 
 }
